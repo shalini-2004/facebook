@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#background{
+    /* background:rgba(65, 65, 170);
+    opacity: 0.6; */
+    background: linear-gradient(white,#D3D8E8);
+    height: 800px;
+}
+.title{
+    background-color:rgb(59, 89, 152); 
+    color: white;height: 70px;
+    padding-left: 200px;
+    padding-top: 10px;
+    font-size: 50px;
+}
+.Email{
+    margin-top: -6%;
+    float:right;
+    padding-right: 15%;
+    padding-top: 15px;
+    font-size: 20px;
+    border-radius: 80%;
+     
+}
+#forgot{
+    font-size: 15px;
+    color: #9cb4d8;
+    padding-left: 172px;
+    text-decoration: none;
+}
+.head{
+    color: white;
+    font-size: 15px;
+}
+#pass{
+    padding-left: 19%;
+}
+.em{
+    height: 20px;
+    width: 150px;
+}
+#log{
+    color: white;
+    background-color:#4267b2;
+    font-size: 15px;
+    width: 60px;
+    height: 30px;
+    border-radius: 5%;
+    
+}
+#pera{
+    box-sizing: border-box;
+    height: 30px;
+    width: 550px;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: x-large;
+}
+#img{
+    padding-left: 50px;
+    padding-top: 100px;
+    height: 400px;
+    width: 650px;
+}
+#why{
+    font-size:17px;
+}
+.blue{
+    font-size: 18px;
+}
+.sign{
+    float:right;
+    padding-right: 200px;
+}
+#caa{
+    font-size: 40px;
+}
+.box{
+    font-size: 18px;
+    height: 40px;
+    width: 245px;
+}
+.place{
+    font-size: 18px;
+    height: 40px;
+    width: 509px;
+}
+
+#up{
+    background-color:rgb(32, 141, 37);
+    color: aliceblue;
+    font-size: 20px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5%;
+}
+#log:hover {
+    background:-webkit-linear-gradient(#7b87f1,#021d77);
+}
+#forgot:hover{
+    color: white;
+}
+
+#up:hover {
+    background:-webkit-linear-gradient(#6ed350, #226308);
+  }
+.info:hover{
+    color: red;
+}
